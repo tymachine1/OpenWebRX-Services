@@ -1,5 +1,6 @@
 var updates = [
-    {message: "I fixed the search bar!"}
+    {message: "OpenWebRX © copyright Radon Corporation [reuse allowed]"}
+    {message: "Test"}
 ];
 let updatespage = document.getElementById("updatespage");
 for(let item of updates) {
