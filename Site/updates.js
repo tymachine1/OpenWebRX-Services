@@ -1,6 +1,5 @@
 var updates = [
     {message: "OpenWebRX © copyright Radon Corporation [reuse allowed]"}
-    {message: "Test"}
 ];
 let updatespage = document.getElementById("updatespage");
 for(let item of updates) {
