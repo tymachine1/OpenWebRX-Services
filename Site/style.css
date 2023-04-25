@@ -21,7 +21,7 @@
 }
 
 body {
-    background: rgb(2, 21, 74);
+    background: rgb(43, 57, 97);
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -44,7 +44,7 @@ body {
 }
 
 .background {
-    background-color: rgb(2, 21, 74);
+    background-color: rgb(43, 57, 97);
     height: 100vh;
     width: 100%;
     top: 0;
@@ -98,7 +98,7 @@ body {
 }
 
 .page {
-    background-color: #02154a;
+    background-color: #2b3961;
     height: 100px;
     width: 800px;
     top: 0;
@@ -110,7 +110,7 @@ body {
 }
 
 .bottom {
-    background-color: #02154a;
+    background-color: #2b3961;
     margin-top: auto;
     height: 50px;
 }
@@ -298,7 +298,7 @@ form input:focus {
 }
 
 .settings {
-    background-color: #272727;
+    background-color: #2b3961;
     height: 30px;
     position: fixed;
     right: 100px;
@@ -309,7 +309,7 @@ form input:focus {
 }
 
 .updates {
-    background-color: #272727;
+    background-color: #2b3961;
     position: fixed;
     right: 455px;
     width: 350px;
